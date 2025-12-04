@@ -1,0 +1,5 @@
+﻿settings.ini
+bin/
+obj/
+.vs/
+.idea/

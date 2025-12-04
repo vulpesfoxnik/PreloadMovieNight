@@ -1,0 +1,4 @@
+﻿[Application]
+DownloadServer = https://localhost
+DownloadDirectory = .\Precache
+Playlist = "playlist.json"
